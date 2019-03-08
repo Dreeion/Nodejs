@@ -1,0 +1,17 @@
+#navMenu {
+    
+    position: fixed;
+    margin: 0;
+    top: 150px;
+    left: -35px;
+    width: 70px;
+    height: 70px;
+    z-index: 100;
+    background: linear-gradient(90deg, #3A3838, #4D4C4C, #3A3838);
+    -webkit-background: linear-gradient(90deg, #3A3838, #4D4C4C, #3A3838);
+    background-size: 400% 400%;
+    -webkit-background-size: 400% 400%;
+    animation: gradient 5s infinite;
+    -webkit-animation: gradient 5s infinite;
+   
+  }
