@@ -1,5 +1,5 @@
 Alexandre Garault   
 Camille Naulet   
-Johan deleon   
+Johan Deleon   
 Axelle Guinedeau   
 Seku Sylla
